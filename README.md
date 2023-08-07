@@ -13,3 +13,7 @@ Also Grid Search in CUML is broken and requires data in pandas dataframe instead
 Day 2.
 
 
+Tried running the same operation with bigger data on GPU. Compile time: 1min 11 sec 
+
+CPU Run Crashed for some reason after exceding the time done by GPU 
+
