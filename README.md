@@ -17,3 +17,11 @@ Tried running the same operation with bigger data on GPU. Compile time: 1min 11 
 
 CPU Run Crashed for some reason after exceding the time done by GPU 
 
+
+
+Day 3. 
+
+
+Project Finished Turns out GPU is slightly faster when compared to CPU with structured data using Nvidia RAPIDS lib
+
+
